@@ -5,6 +5,12 @@ A full-stack backend project built with **Node.js, Express.js, MongoDB Atlas and
 This project demonstrates how an in-memory REST API can be migrated to a persistent **MongoDB Atlas cloud database** with schema validation, relationships and data population.
 
 ---
+# 🔗 Project Links
+
+- **GitHub Repository:** https://github.com/sakshi192004/sprint-10
+- **Live API:** https://sprint-10-osvi.onrender.com
+- **Demo Video:** 
+---
 
 ## 🚀 Features
 
